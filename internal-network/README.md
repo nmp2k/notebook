@@ -22,6 +22,7 @@ in a network, the IP address of a device (which could be a server) is determined
   ` ipconfig`
 
 result:
+
 ![](./imgs/ipconfig.png)
 
 - seconds way: with nodejs os module:
@@ -56,6 +57,7 @@ console.log(networkInfo);
 ```
 
 result:
+
 ![](./imgs/ckec.png)
 
 note: u can change static ip on device with window settings
@@ -81,4 +83,6 @@ server.listen(port, host, () => {
 });
 ```
 
-result: ![](./imgs/res.png)
+result:
+
+![](./imgs/res.png)
