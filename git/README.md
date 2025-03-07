@@ -1,8 +1,12 @@
 # environment setup
 
-1. install ssh
-2. install git
-3. install notepad++
+- **1. install ssh**
+- **2. install git**
+- **3. install notepad++**
+
+**🎉[what is git](./basic.git.md)**
+
+**🎉[logref & fsck when occur problem beyond repiar](./reflog.fsck.md)**
 
 ## setup
 
