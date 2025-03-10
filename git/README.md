@@ -6,7 +6,7 @@
 
 **🎉[what is git](./basic.git.md)**
 
-**🎉[logref & fsck when occur problem beyond repiar](./reflog.fsck.md)**
+**🎉[reflog & fsck when occur problem beyond repiar](./reflog.fsck.md)**
 
 ## setup
 
